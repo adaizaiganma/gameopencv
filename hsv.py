@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # 🌟 換成你 frames 裡有電鋸的圖片路徑
-TEST_IMAGE = "frames/frame_0088.png"
+TEST_IMAGE = "frames/frame_0359.png"
 
 
 def nothing(x):

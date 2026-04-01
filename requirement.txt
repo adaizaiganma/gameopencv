@@ -1,0 +1,14 @@
+
+numpy==1.26.4
+opencv-python
+pillow
+
+
+
+gymnasium
+stable-baselines3[extra]
+shimmy>=2.0
+
+
+pyautogui
+mss
